@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    
+    
+    background-color: peachpuff;
+    background-image: url("../images/asfalt.png");
+    /* background-image: url("../images/profile-hex.png") */
+   
+}
+
+.profilepic {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.headername {
+    margin-left: auto;
+    margin-right: auto;
+
+}
